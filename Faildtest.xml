@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FaildDemo">
+<test name="FaildTestDemo">
+<classes>
+<class name="com.Automation.Interview.FaildTest1"></class>
+<class name="com.Automation.Interview.FaildTest2"></class>
+
+<class name="com.Automation.Interview.FaildTest3"></class>
+
+</classes>
+</test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FaildDemo]">
+  <test thread-count="5" name="FaildTestDemo(failed)">
+    <classes>
+      <class name="com.Automation.Interview.FaildTest3">
+        <methods>
+          <include name="wordpress"/>
+        </methods>
+      </class> <!-- com.Automation.Interview.FaildTest3 -->
+    </classes>
+  </test> <!-- FaildTestDemo(failed) -->
+</suite> <!-- Failed suite [FaildDemo] -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="groupsDemp">
+<test name="testGroup">
+<groups>
+<run>
+<include name="smoke"></include>
+</run>
+</groups>
+<classes>
+<class name="com.Automation.Interview.Groups1"></class>
+<class name="com.Automation.Interview.Groups2"></class>
+
+</classes>
+</test>
+</suite>

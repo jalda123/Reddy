@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoSuite" duration-ms="1116" started-at="2018-09-03T15:59:38Z" finished-at="2018-09-03T15:59:39Z">
+    <groups>
+    </groups>
+    <test name="TestDemo" duration-ms="362" started-at="2018-09-03T15:59:38Z" finished-at="2018-09-03T15:59:38Z">
+      <class name="com.Automation.Interview.Paralell">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Automation.Interview.Paralell@5e3a8624]" name="test1" duration-ms="16" started-at="2018-09-03T15:59:38Z" finished-at="2018-09-03T15:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.Automation.Interview.Paralell -->
+    </test> <!-- TestDemo -->
+    <test name="TestDemo1" duration-ms="8" started-at="2018-09-03T15:59:39Z" finished-at="2018-09-03T15:59:39Z">
+      <class name="com.Automation.Interview.Paralell2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Automation.Interview.Paralell2@42dafa95]" name="test2" duration-ms="1" started-at="2018-09-03T15:59:39Z" finished-at="2018-09-03T15:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.Automation.Interview.Paralell2 -->
+    </test> <!-- TestDemo1 -->
+  </suite> <!-- DemoSuite -->
+</testng-results>
